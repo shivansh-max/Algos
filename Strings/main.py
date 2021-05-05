@@ -2,6 +2,8 @@
 from Pallendrone import Pallendrone
 from CaesarCipher import CaesarCipher
 from RunLengthEncoding import RunLengthEncoding
+from LongestPalindrome import LongestPalindrome
+from Combos import Combos
 
 # Vars (instances of the classes)
 paller = Pallendrone()
@@ -18,20 +20,29 @@ prescript()
 
 # Main Function
 def main():
-    # print("Palindrome : ")
-    # Pallendrone().check("abcdcba")
-    #
-    # print("\n")
-    #
-    # print("Caesar Cipher Encryptor : ")
-    # CaesarCipher().caesarCipherEncryptor("ABCK", 9)
+    print("Palindrome : ")
+    Pallendrone().check("abcdcba")
+
+    print("\n")
+
+    print("Caesar Cipher Encryptor : ")
+    CaesarCipher().caesarCipherEncryptor("ABCK", 9)
 
     print("\n")
 
     print("Run Length Encoding : ")
-    RunLengthEncoding().encode("aAsSSSSdDDffffRRRR")
+    RunLengthEncoding().getrunlengthalgo("aaa")
 
+    print("\n")
 
+    # □◯△♢❖
+    print("Combos : ")
+    Combos().getCombos("abab")
+
+    print("\n")
+
+    print("Longest Palindrome")
+    LongestPalindrome().longestPalindromicSubstring("abaxyzzyxf")
 
 # Runnable
 if __name__ == '__main__':

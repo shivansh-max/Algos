@@ -19,3 +19,9 @@ class Pallendrone:
             return
 
         print(f"String {check_str} is not a palindrome.")
+
+    def checkAndReturnTrueFalse(self, check_str):
+        if check_str == self.reverse(check_str):
+            return True
+
+        return False
