@@ -19,11 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f1795a6-d02f-4446-8482-4e10ba63c3ce" name="Default Changelist" comment="" />
+    <list default="true" id="7f1795a6-d02f-4446-8482-4e10ba63c3ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/MoveElementToEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/PhoneNumberMnemonics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedSquaredArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgosWithDad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgosWithDad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/ValidateSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/ValidateSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,14 +49,17 @@
     <setting file="file://$PROJECT_DIR$/Arrays/main.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1rdLoliCjPmEr9e8YOMX53ZAXxb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Strings" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -162,55 +182,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Another one down!!!" />
     <option name="LAST_COMMIT_MESSAGE" value="Another one down!!!" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="459" y="138" key="FileChooserDialogImpl" timestamp="1619714388711">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="459" y="138" key="FileChooserDialogImpl/0.0.1360.768@0.0.1360.768" timestamp="1619714388711" />
-    <state width="1339" height="238" key="GridCell.Tab.0.bottom" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.0.center" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.0.left" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.0.right" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.1.bottom" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.1.bottom/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.1.center" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.1.center/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.1.left" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.1.left/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state width="1339" height="238" key="GridCell.Tab.1.right" timestamp="1619438588572">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="238" key="GridCell.Tab.1.right/0.0.1360.768@0.0.1360.768" timestamp="1619438588572" />
-    <state x="181" y="28" key="SettingsEditor" timestamp="1619353043568">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="181" y="28" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1619353043568" />
-    <state x="272" y="116" key="Vcs.Push.Dialog.v2" timestamp="1619437278233">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="272" y="116" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1619437278233" />
-    <state x="92" y="92" width="1176" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619352319266">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="92" y="92" width="1176" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1360.768@0.0.1360.768" timestamp="1619352319266" />
   </component>
 </project>

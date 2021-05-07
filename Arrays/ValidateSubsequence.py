@@ -1,7 +1,6 @@
 # Given two arrays of integers write a function that determines whether the second array is a subsequence
 # of the firs one
 
-
 class isValidSubsequenceChecker:
     def __init__(self):
         pass

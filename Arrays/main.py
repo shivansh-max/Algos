@@ -6,8 +6,10 @@ from Node import Node
 from FindSumWithGoalNumber import FindSumWithGoalNumber
 from TournamentChampion import Tournament
 from SmallestDifference import SmallestDifference
+from SortedSquaredArray import SortedSquaredArray
 from NonConstructibleChange import NonConstructibleChange
 from spiralConverter import SpiralConverter
+from MoveElementToEnd import MoveElementToEnd
 from largestRange import LargestRange
 from apartmentHunting import ApartmentHunting
 
@@ -23,6 +25,8 @@ nonCosChange = NonConstructibleChange()
 spiral = SpiralConverter()
 largetrange = LargestRange()
 apartment = ApartmentHunting()
+moveElementToEnd = MoveElementToEnd()
+sortedSquarredArray = SortedSquaredArray()
 
 
 def preScript():
@@ -102,7 +106,7 @@ def main():
     print("\n")
 
     print("Non Constructable change : ")
-    nonCosChange.calculate([1,2,3,10,1])
+    nonCosChange.calculate([1, 2, 3, 10, 1])
 
     print("\n")
 
@@ -119,50 +123,59 @@ def main():
     print("\n")
 
     print("Largest Range : \n")
-    largetrange.LargestRange([1,2,3,5,6,7,8,9])
+    largetrange.LargestRange([1, 2, 3, 5, 6, 7, 8, 9])
 
     print("\n")
 
     print("Apartment Hunting : \n")
     apartment.find([
-    {
-      "gym": False,
-      "office": True,
-      "school": True,
-      "store": False
-    },
-    {
-      "gym": True,
-      "office": False,
-      "school": False,
-      "store": False
-    },
-    {
-      "gym": True,
-      "office": False,
-      "school": True,
-      "store": False
-    },
-    {
-      "gym": False,
-      "office": False,
-      "school": True,
-      "store": False
-    },
-    {
-      "gym": False,
-      "office": False,
-      "school": True,
-      "store": False
-    },
-    {
-      "gym": False,
-      "office": False,
-      "school": True,
-      "store": True
-    }
-  ], ["gym", "office", "school", "store"])
+        {
+            "gym": False,
+            "office": True,
+            "school": True,
+            "store": False
+        },
+        {
+            "gym": True,
+            "office": False,
+            "school": False,
+            "store": False
+        },
+        {
+            "gym": True,
+            "office": False,
+            "school": True,
+            "store": False
+        },
+        {
+            "gym": False,
+            "office": False,
+            "school": True,
+            "store": False
+        },
+        {
+            "gym": False,
+            "office": False,
+            "school": True,
+            "store": False
+        },
+        {
+            "gym": False,
+            "office": False,
+            "school": True,
+            "store": True
+        }
+    ], ["gym", "office", "school", "store"])
 
+    print("\n")
+
+    print("Sorted Squarred : \n")
+    sortedSquarredArray.square([1, 2, 3, 5, 6, 7, 8, 9])
+
+    print("\n")
+
+    print("Move Element To End : ")
+    moveElementToEnd.move([2, 1, 2, 2, 2, 3, 4, 2],  2)
 
 if __name__ == '__main__':
     main()
