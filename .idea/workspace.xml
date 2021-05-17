@@ -1,34 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f1795a6-d02f-4446-8482-4e10ba63c3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/MoveElementToEnd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/PhoneNumberMnemonics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortedSquaredArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AlgosWithDad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AlgosWithDad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d2fc276f-af5d-49c2-b24e-40762823b403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Easy/NonConstructibleChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Easy/SortedSquaredArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Easy/TournamentChampion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Easy/ValidateSubSequenceForStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Easy/ValidateSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Hard/MinRewards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Hard/SubArraySort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Hard/ZigZagTransverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Hard/largestRange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/ArraysOfProducts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/FindSumWithGoalNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/FindTripletsWithZeroSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/FirstDuplicateNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/LongestPeak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/MonotonicArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/MoveElementToEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/SmallestDifference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/mergeOverlappingIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Medium/spiralConverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SuperHard/CalendarMatching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SuperHard/WaterfallStream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SuperHard/apartmentHunting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/arrays-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search Tree/Easy/FindClosest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Trees/Easy/BranchAddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Trees/Easy/NodeDepths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Easy/BranchAddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Easy/NodeDepths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Easy/NthFibinacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Easy/productSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Medium/Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Medium/PhoneNumberMnemonics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Medium/PowerSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/BranchAddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/CaesarCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/NodeDepths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/Pallendrone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Easy/RunLengthEncoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/Combos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Medium/LongestPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgosWithDad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/ValidateSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/ValidateSubsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/FindSumWithGoalNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/FindTripletsWithZeroSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/MoveElementToEnd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/NonConstructibleChange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/SmallestDifference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/TournamentChampion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/ValidateSubSequenceForStrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/ValidateSubsequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/apartmentHunting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/largestRange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/spiralConverter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/BinarySearchTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/FindClosest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/BinaryTrees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/BinaryTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/BranchAddition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/NodeDepths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Fibanasci2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Fibonacciseries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/LOOPINGNUMBERS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Matriccalculater.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Palandrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Pascal's Triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Sentence_reverser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/Si.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/String_reverser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/SumMultiplacationCalculater.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/correctly_closed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/digitAdder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/if_crossed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/indexAdder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/indexSumAdder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/makapalandrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/repatitiveWords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/repetitivefinder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/singleline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Old Scripts/thousand_seperater.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/NthFibinacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Permutations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/PhoneNumberMnemonics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/PowerSet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recursion-main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/productSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortedSquaredArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/CaesarCipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Combos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/LongestPalindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Pallendrone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/RunLengthEncoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +146,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Arrays/main.py" root0="SKIP_INSPECTION" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
-  <component name="ProjectId" id="1rdLoliCjPmEr9e8YOMX53ZAXxb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Arrays/arrays-main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Arrays/Hard/ZigZagTransverse.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Arrays/SuperHard/WaterfallStream.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Arrays/SuperHard/CalendarMatching.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1sBgef5z5tLupgvQhIoVvlSd2Qr" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -57,25 +169,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Strings/main.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.20795107" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="TournamentChampion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgosWithDad" />
+  <component name="RunManager" selected="Python.Arrays">
+    <configuration name="Arrays" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\shiva\AppData\Local\Programs\Python\Python38-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/TournamentChampion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/arrays-main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,19 +200,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="apartmentHunting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgosWithDad" />
+    <configuration name="Binary-Search-Tree" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\shiva\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary Search Tree" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/apartmentHunting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search Tree/binary-tree-search-main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,19 +221,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgosWithDad" />
+    <configuration name="Binary" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\shiva\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary Trees" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Trees/binary-main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,61 +242,75 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.apartmentHunting" />
-        <item itemvalue="Python.TournamentChampion" />
-      </list>
-    </recent_temporary>
+    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\shiva\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\shiva\Python\Algorithms\Recursion\recursion-main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\shiva\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Arrays" />
+      <item itemvalue="Python.Binary-Search-Tree" />
+      <item itemvalue="Python.Binary" />
+      <item itemvalue="Python.Recursion" />
+      <item itemvalue="Python.Strings" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f1795a6-d02f-4446-8482-4e10ba63c3ce" name="Default Changelist" comment="" />
-      <created>1619301204248</created>
+      <changelist id="d2fc276f-af5d-49c2-b24e-40762823b403" name="Default Changelist" comment="" />
+      <created>1620351493766</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619301204248</updated>
+      <updated>1620351493766</updated>
     </task>
-    <task id="LOCAL-00001" summary="Another one down!!!">
-      <created>1619437178631</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1619437178631</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Another one down!!!">
-      <created>1619437218176</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1619437218176</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Another one down!!!">
-      <created>1619437269867</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1619437269867</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Another one down!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Another one down!!!" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="array" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

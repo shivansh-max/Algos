@@ -1,9 +1,10 @@
 # Imports
-from Pallendrone import Pallendrone
-from CaesarCipher import CaesarCipher
-from RunLengthEncoding import RunLengthEncoding
-from LongestPalindrome import LongestPalindrome
-from Combos import Combos
+from Easy.Pallendrone import Pallendrone
+from Easy.CaesarCipher import CaesarCipher
+from Easy.RunLengthEncoding import RunLengthEncoding
+
+from Medium.LongestPalindrome import LongestPalindrome
+from Medium.Combos import Combos
 
 # Vars (instances of the classes)
 paller = Pallendrone()
